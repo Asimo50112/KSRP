@@ -1,0 +1,39 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "type": "rich",
+      "color": 11357988,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1461839891460522230/1487996552193642689/shop.png?ex=69cb2c47&is=69c9dac7&hm=1849300dc981a8df90018130bee2cda8aee36518be7c48eb0ada2cc43576f41b&=&format=webp&quality=lossless"
+      }
+    },
+    {
+      "type": "rich",
+      "color": 11357988,
+      "title": "Paid Advertisements",
+      "description": "Advertise your server by purchasing different types of paid promotions and pings.",
+      "fields": [
+        {
+          "name": "Ping Options",
+          "value": "[Everyone Ping](https://www.roblox.com/game-pass/1724975689/Paid-Ad-everyone) - 400R$\n[Here Ping](https://www.roblox.com/game-pass/1756226362/Paid-Ad-here) - 250R$\n[Sponsor Giveaway + Everyone Ping](https://www.roblox.com/game-pass/1731810795/SPGW-everyone) - 500R$\n[Custom Channel + Everyone Ping](https://www.roblox.com/game-pass/1757212328/Custom-Channel-Everyone-Ping) - 1,000R$"
+        },
+        {
+          "name": "Premium Services",
+          "value": "[Queue Bypass](https://www.roblox.com/game-pass/1757800306/Queue-Priority) - 100R$\n[Instant Post](https://www.roblox.com/game-pass/1756570362/Instant-Post) - 300R$"
+        },
+        {
+          "name": "How to Claim",
+          "value": "Open a ticket in <#1442225117341024311> and we will take it from there.\n*Note: Custom channels will be deleted after 30 days.*"
+        }
+      ]
+    },
+    {
+      "type": "rich",
+      "color": 11357988,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/1461839891460522230/1488908322374422701/bottom_banner.png"
+      }
+    }
+  ]
+}
