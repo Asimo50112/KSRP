@@ -1,0 +1,69 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "type": "rich",
+      "color": 11357988,
+      "image": {
+        "url": "https://media.discordapp.net/attachments/1461839891460522230/1488908340179370215/departments.png?ex=69ce7d72&is=69cd2bf2&hm=e86fdef9463c76ef7e567b2d48ef5fd33c0eaf1257bee4b921a9a2270de272d8&=&format=webp&quality=lossless&width=1327&height=462"
+      }
+    },
+    {
+      "type": "rich",
+      "color": 11357988,
+      "title": "Keystone State Shop",
+      "description": "Support our **KSRP** by purchasing donation gamepasses!\nAny support is appreciated",
+      "fields": [
+        {
+          "name": "Perks for ANY purchase",
+          "value": "• GIF Perms\n• Priority ticket support\n• Ability to post in <#1442225117642883075>\n\nWhen purchased, open a management ticket in <#1442225117341024311>."
+        },
+        {
+          "name": "Keystone + (100 Robux)",
+          "value": "• All Contributor perks\n• In-game freecam\n• Full Keystone + section"
+        },
+        {
+          "name": "Top 3 Contributors Bonus!",
+          "value": "If you're in the **top 3** donors (by total Robux spent), you'll receive:\n• <@&1461848830856134882>\n• Your own **custom role** with a unique name & color\n• A **custom emoji** made just for you!"
+        },
+        {
+          "name": "All funds go towards:",
+          "value": "Giveaways, Server upgrades like new uniforms, liveries and prizes for our staff."
+        }
+      ]
+    },
+    {
+      "type": "rich",
+      "color": 11357988,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/1461839891460522230/1488908322374422701/bottom_banner.png"
+      }
+    }
+  ],
+  "components": [
+    {
+      "type": 1,
+      "components": [
+        { "type": 2, "style": 5, "label": "150R$", "url": "https://www.roblox.com/game-pass/1672300035/Donation-150" },
+        { "type": 2, "style": 5, "label": "250R$", "url": "https://www.roblox.com/game-pass/1672653765/Donation-250" },
+        { "type": 2, "style": 5, "label": "500R$", "url": "https://www.roblox.com/game-pass/1672763509/Donation-500" },
+        { "type": 2, "style": 5, "label": "750R$", "url": "https://www.roblox.com/game-pass/1702156800/Donation-750" },
+        { "type": 2, "style": 5, "label": "Keystone +", "url": "https://www.roblox.com/game-pass/1672663785/Keystone" }
+      ]
+    },
+    {
+      "type": 1,
+      "components": [
+        {
+          "type": 3,
+          "custom_id": "shop_dropdown",
+          "options": [
+            { "label": "Paid Advertisements", "value": "paid_ads", "description": "View paid advertisements and pings." },
+            { "label": "Terms of Service", "value": "tos", "description": "Coming soon." }
+          ],
+          "placeholder": "More Shop Options..."
+        }
+      ]
+    }
+  ]
+}
