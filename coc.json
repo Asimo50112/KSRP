@@ -1,0 +1,52 @@
+{
+  "flags": 32832,
+  "components": [
+    {
+      "type": 17,
+      "accent_color": 11357988,
+      "components": [
+        { "type": 10, "content": "### Chain Of Command \nAll members of our staff team\nmust follow the current CoC." },
+        { "type": 14 },
+        {
+          "type": 9,
+          "components": [{ "type": 10, "content": "**Foundation Team**\n\n<@&1459591620855988315>\n<@&1459591711729778688>\n<@&1459591878507892918>\n<@&1459559544710631488>" }],
+          "accessory": { "type": 11, "media": { "url": "https://media.discordapp.net/attachments/1461839891460522230/1484299678454648934/FOUNDERSHIP_ICON.png?ex=69bdb94c&is=69bc67cc&hm=218413c9315a9ec14b0ba655498d06b768603cecd88c545ad8d9cebc95360803&=&format=webp&quality=lossless" } }
+        },
+        { "type": 14 },
+        {
+          "type": 9,
+          "components": [{ "type": 10, "content": "**Board of Directors**\n\n<@&1467189325828718723>\n<@&1467189838615810222>\n<@&1467189454132347017>\n<@&1467189938008359062>" }],
+          "accessory": { "type": 11, "media": { "url": "https://media.discordapp.net/attachments/1461839891460522230/1484299682464272535/DIRECTOR.png?ex=69bdb94d&is=69bc67cd&hm=fa214e6d19750a546f4f165bb0b4576a231fb26afde3751f17e5210d19367030&=&format=webp&quality=lossless" } }
+        },
+        { "type": 14 },
+        {
+          "type": 9,
+          "components": [{ "type": 10, "content": "**Management**\n\n<@&1459596580389912670>\n<@&1459596654293291151>\n<@&1459596758945370260>\n<@&1459596216215277744>" }],
+          "accessory": { "type": 11, "media": { "url": "https://media.discordapp.net/attachments/1461839891460522230/1484299679247368313/management.png?ex=69bdb94c&is=69bc67cc&hm=fcd95e2321a2f24667d0ac0988c9e6c73650d69a825999079b537ed70d042d40&=&format=webp&quality=lossless" } }
+        },
+        { "type": 14 },
+        {
+          "type": 9,
+          "components": [{ "type": 10, "content": "**Internal Affairs**\n\n<@&1459901714235789525>\n<@&1466534094048464987>\n<@&1459904033849475168>\n<@&1459903857848094850>\n<@&1459901341764944053>" }],
+          "accessory": { "type": 11, "media": { "url": "https://media.discordapp.net/attachments/1461839891460522230/1484299678815092736/INTERNAL_AFFIARS.png?ex=69bdb94c&is=69bc67cc&hm=9f8903e7ee37dab29169fd3608eee4f82af7c6c9f95260e0c094ba9b8a0ce1cb&=&format=webp&quality=lossless" } }
+        },
+        { "type": 14 },
+        {
+          "type": 9,
+          "components": [{ "type": 10, "content": "**Administration**\n\n<@&1459599958712778915>\n<@&1459599998634164356>\n<@&1459600036445818920>\n<@&1459600435143901380>" }],
+          "accessory": { "type": 11, "media": { "url": "https://media.discordapp.net/attachments/1461839891460522230/1484299680845136077/ADMINISTRATOR.png?ex=69bdb94c&is=69bc67cc&hm=523e72d8f21859556a973a78348bae2603c016317e2c67f3ca339c2e4a43c579&=&format=webp&quality=lossless" } }
+        },
+        { "type": 14 },
+        {
+          "type": 9,
+          "components": [{ "type": 10, "content": "**Moderation**\n\n<@&1459562852212932804>\n<@&1459562596972626021>\n<@&1459562694570147892>\n<@&1459560254261035098>" }],
+          "accessory": { "type": 11, "media": { "url": "https://media.discordapp.net/attachments/1461839891460522230/1484299679712809176/MODERATION.png?ex=69bdb94c&is=69bc67cc&hm=52696b56b46f38b23a396a7405faaf93c59753d55fb69f9476fe4a51dd0e3389&=&format=webp&quality=lossless" } }
+        },
+        { "type": 14 },
+        { "type": 10, "content": "<@&1459560091811578059>" },
+        { "type": 14 },
+        { "type": 10, "content": "-# The current CoC can be changed at any moment.\n  <:a:1483870239497125942> ``Digit, Founder of Keystone State Roleplay``" }
+      ]
+    }
+  ]
+}
