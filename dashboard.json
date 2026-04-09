@@ -1,0 +1,125 @@
+{
+  "flags": 32768,
+  "components": [
+    {
+      "type": 17,
+      "accent_color": 11357988,
+      "components": [
+        {
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://cdn.discordapp.com/attachments/1461839891460522230/1488908333690785883/dashboard.png"
+              }
+            }
+          ]
+        },
+        {
+          "type": 10,
+          "content": "## Keystone Dashboard\nWelcome to the KSRP Dashboard.\nThis embed will provide the key info on your journey with Keystone.\n\n**__Important Links__**\n``>`` [WL Group](https://www.roblox.com/communities/108026927/Keystone-State-Whitelisted#!/about)\n``>`` [Our Group](https://www.roblox.com/communities/484459196/Keystone-State-Roleplay-KSRP#!/about)\n``>`` [Staff Application](https://melon.ly/form/7418367130933923840)\n``>`` [Melonly Directory](https://melonly.xyz/servers/keystone-state-roleplay-2)\n``>`` [Ban Appeal](https://melon.ly/form/7428874170647187456)\n\n**__Important Channels__**\n``>`` <#1442225117341024311>\n``>`` <#1471978854498172989>\n``>`` <#1442225117341024313>\n``>`` <#1442225117642883079>\n``>`` <#1442225117642883075>\n\n*Experiencing issues? Create a ticket and we'll get on it!*"
+        },
+        {
+          "type": 12,
+          "items": [
+            {
+              "media": {
+                "url": "https://cdn.discordapp.com/attachments/1461839891460522230/1488908322374422701/bottom_banner.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "components": [
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Request A Priority Roleplay",
+          "url": "https://melonly.xyz/forms/priority/7415760345777573888"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "PRC ToS",
+          "url": "https://policeroleplay.community/policies/community-guidelines"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Roblox ToS",
+          "url": "https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use"
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "components": [
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Discord ToS",
+          "url": "https://discord.com/terms"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "ER:LC Interactive Map",
+          "url": "https://erlc-hub.pages.dev/"
+        },
+        {
+          "type": 2,
+          "style": 5,
+          "label": "Melonly Punishment History",
+          "url": "https://melonly.xyz/logs/7415760345777573888"
+        }
+      ]
+    },
+    {
+      "type": 1,
+      "components": [
+        {
+          "type": 3,
+          "custom_id": "p_275969556906774548",
+          "options": [
+            {
+              "label": "Session Ping",
+              "value": "d59LrhBOfD",
+              "description": "Get notified when we host a server start-up."
+            },
+            {
+              "label": "Announcement Ping",
+              "value": "qwOFIdZAPp",
+              "description": "Get notified about server updates."
+            },
+            {
+              "label": "Giveaway Ping",
+              "value": "unYzFdNx2A",
+              "description": "Get notified about server giveaways."
+            },
+            {
+              "label": "Application Status",
+              "value": "cPrrhmwbFR",
+              "description": "Get notified whether apps are open or not."
+            },
+            {
+              "label": "Department Ping",
+              "value": "dHkppLuU4P",
+              "description": "Get notified about department updates."
+            },
+            {
+              "label": "Dead Chat Ping",
+              "value": "elyxVHtVoz",
+              "description": "Get notified for random stuff or to boost chat activity."
+            }
+          ],
+          "placeholder": "Select a notification role!",
+          "min_values": 1,
+          "max_values": 1
+        }
+      ]
+    }
+  ]
+}
